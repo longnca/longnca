@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Long T. Nguyen 👋
+
+I am certified ABSA Fourth Class Power Engineer with a total of 10+ years working in various industries including oil and gas, manufacturing, and health care facilities. 
 
 - 🔭 I’m currently working on transitioning my career path from Power Engineer to Data Analyst
 - 🌱 I’m currently learning Data Analysis and Data Science
