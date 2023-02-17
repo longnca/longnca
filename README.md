@@ -7,7 +7,7 @@ I am certified ABSA Fourth Class Power Engineer with a total of 10+ years workin
 - 💬 Ask me about anything related to chemistry, if I don't know the answer, I will Google it. :) 
 - 📫 How to reach me: my email at nlonguk@gmail.com
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: addicted to coffee, obsessed with books, and fanatic about photography
+- ⚡ Fun fact: addicted to coffee :coffee:, obsessed with books :books:, and fanatic about photography :camera:
 
 <!--
 **longnguyendata/longnguyendata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
