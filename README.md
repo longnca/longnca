@@ -7,4 +7,4 @@ I am a certified APEGA Chemical Engineer-in-Training and ABSA 4th Class Power En
 - 💬 Ask me about anything related to chemistry, if I don't know the answer, I will Google it. :) 
 - 📫 How to reach me: nlonguk@gmail.com
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: addicted to coffee :coffee:, obsessed with books :books:, and fanatic about photography :camera:
+- ⚡ Fun facts: addicted to coffee :coffee:, obsessed with books :books:, and fanatic about photography :camera:
