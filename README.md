@@ -2,7 +2,7 @@
 
 I am a certified APEGA Chemical Engineer-in-Training and ABSA 4th Class Power Engineer with a total of 10+ years working in various industries including oil and gas, manufacturing, and healthcare facilities.
 
-- 🔭 I’m currently working on transitioning my career path from Power Engineer to Data Analyst
+- 🔭 I’m currently working on transitioning my career path from Engineering to Data Analyst
 - ⚡ Fun facts: addicted to coffee :coffee:, obsessed with books :books:, and fanatic about photography :camera:
 
 #### 📫 How to reach me:
