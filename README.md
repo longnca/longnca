@@ -1,6 +1,6 @@
-### Hi there, I'm Long T. Nguyen 👋
+### Hi there, I'm Long Nguyen 👋
 
-Hi, I'm Long. Thank you for visiting my profile. I want to give you a brief introduction about myself. I have a background in Chemical Engineering with a Master's degree from the University of Manchester (U.K.). Over the years, I've worked across various industries —including oil & gas, manufacturing, operations, and healthcare— with all roles geared toward data-driven solutions. My passion for data is not just a career choice; it's a continuous journey of discovery and learning. When I'm not immersed in the world of data, I enjoy spending time with my family, hiking in the Rockies, and capturing the breathtaking beauty of Canada through photography.
+Thank you for visiting my profile. I want to give you a brief introduction about myself. I have a background in Chemical Engineering with a Master's degree from the University of Manchester (U.K.). Over the years, I've worked across various industries —including oil & gas, manufacturing, operations, and healthcare— with all roles geared toward data-driven solutions. My passion for data is not just a career choice; it's a continuous journey of discovery and learning. When I'm not immersed in the world of data, I enjoy spending time with my family, hiking in the Rockies, and capturing the breathtaking beauty of Canada through photography.
 
 - 🔭 I’m currently working on enhancing both my technical and non-technical data skills to add value to the business.
 - ⚡ Fun facts: addicted to coffee :coffee:, obsessed with books :books:, and fanatic about photography :camera:.
