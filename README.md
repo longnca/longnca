@@ -1,6 +1,6 @@
 ### Hi there, I'm Long T. Nguyen 👋
 
-I am a data analyst with an Engineering background and 10+ years working in various industries including oil and gas, manufacturing, and healthcare.
+I am a data specialist with an Engineering background and 10+ years working in various industries including oil and gas, manufacturing, and healthcare.
 
 - 🔭 I’m currently working on enhancing both my technical and non-technical data skills to add value to the business.
 - ⚡ Fun facts: addicted to coffee :coffee:, obsessed with books :books:, and fanatic about photography :camera:.
