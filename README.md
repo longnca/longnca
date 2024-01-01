@@ -1,4 +1,4 @@
-### Hi there, I'm Long Nguyen 👋
+### Hi there, I'm Long 👋
 
 Thank you for visiting my GitHub. I want to give you a brief introduction about myself. I have a background in Chemical Engineering with a Master's degree from the University of Manchester (U.K.). Over the years, I've worked across various industries —including oil & gas, manufacturing, operations, and healthcare— with all roles geared toward data-driven solutions. My passion for data is more than just a job; it's a journey of continuous learning and growth. When I'm not busy cleaning and analyzing data, I enjoy spending time with my family, hiking in the Rockies, and capturing the breathtaking beauty of Canada through photography.
 
