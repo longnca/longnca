@@ -21,7 +21,7 @@ When I'm not busy cleaning and analyzing data, I enjoy spending time with my fam
 
 ## My GitHub Stats:
 
-![longnca's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longnca&theme=default&show_icons=true&hide_border=false&layout=compact)
+[![longnca's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longnca&theme=default&show_icons=true&hide_border=false&layout=compact)](https://gh-stats-gen.vercel.app/)
 
 ![longnca's Streak](https://github-readme-streak-stats.herokuapp.com/?user=longnca&theme=default&hide_border=false)
 
