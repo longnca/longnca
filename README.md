@@ -8,7 +8,7 @@ I have a background in Chemical Engineering with a Master's degree from the Univ
 
 When I'm not busy cleaning and analyzing data, I enjoy spending time with my family, hiking in the Rockies, and capturing the breathtaking beauty of Canada through photography.
 
-- 🔭 At my current job, I’m currently building an entire end-to-end data portal and system from the ground up, applying my skills in database design, data modelling, ETL data pipelines, analytics, and visualization.
+- 🔭 At my current job, I’m currently building an entire end-to-end data portal and system from the ground up, applying my skills in database design, data modelling, ETL data pipelines, analytics, visualization, and front-end web development.
 - ⚡ Fun facts: addicted to coffee :coffee:, obsessed with books :books:, and fanatic about photography :camera:.
 
 ## 📫 How to reach me:
