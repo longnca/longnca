@@ -1,17 +1,20 @@
 # Hi, I'm Long 👋
 
-## About Me
+## About Me: 
 
 Thank you for visiting my GitHub. Here's a brief introduction about myself. 
 
-I have a background in Chemical Engineering with a Master's degree from the University of Manchester (U.K.). Over the years, I've worked across various industries —including oil & gas, manufacturing, operations, and healthcare— with all roles geared toward data-driven solutions. My passion for data is more than just a job; it's a journey of continuous learning and growth. 
+- :man_student: I have a background in Chemical Engineering with a Master's degree from the University of Manchester (U.K.).
+- :man_mechanic: Over the years, I've worked across various industries —including oil & gas :oil_drum:, manufacturing :factory:, operations :office:, and healthcare :hospital:— with all roles geared toward data-driven solutions.
+- :microscope: My passion for data is more than just a job; it's a journey of continuous learning and growth.
+- :computer: At my current job, I’m currently building an entire end-to-end data portal and system from the ground up, applying my skills in database design, data modelling, ETL data pipelines, analytics, visualization, and front-end web development.
 
-When I'm not busy cleaning and analyzing data, I enjoy spending time with my family, hiking in the Rockies, and capturing the breathtaking beauty of Canada through photography.
+## My Interests:
 
-- 🔭 At my current job, I’m currently building an entire end-to-end data portal and system from the ground up, applying my skills in database design, data modelling, ETL data pipelines, analytics, visualization, and front-end web development.
-- ⚡ Fun facts: addicted to coffee :coffee:, obsessed with books :books:, and fanatic about photography :camera:.
+- :camera_flash: When I'm not busy cleaning and analyzing data, I enjoy spending time with my family, hiking in the Rockies, and capturing the breathtaking beauty of Canada through photography.
+- :zap: Fun facts: addicted to coffee :coffee:, obsessed with books :books:, and fanatic about photography :camera:.
 
-## 📫 How to reach me:
+## How to reach me:
   
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/longnguyendata/)  &nbsp;&nbsp; <a href="mailto:nlonguk@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
