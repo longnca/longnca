@@ -17,7 +17,7 @@ When I'm not busy cleaning and analyzing data, I enjoy spending time with my fam
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,django,docker,git,mysql,postgres,aws,azure,gcp,bash,powershell&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,django,docker,git,mysql,postgres,aws,azure,gcp,bash,powershell,js,html,css&perline=9)](https://skillicons.dev)
 
 ## My GitHub Stats:
 
