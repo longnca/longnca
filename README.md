@@ -13,7 +13,7 @@ When I'm not busy cleaning and analyzing data, I enjoy spending time with my fam
 
 ## 📫 How to reach me:
   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/longndata/)  &nbsp;&nbsp; <a href="mailto:nlonguk@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/longnguyendata/)  &nbsp;&nbsp; <a href="mailto:nlonguk@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ## Languages and Tools:
 
