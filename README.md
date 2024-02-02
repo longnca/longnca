@@ -17,7 +17,7 @@ Thank you for visiting my GitHub. Here's a brief introduction about myself.
 ## What I'm Learning:
 
 - I code daily to get better at solving problems. Check out my streak below!
-- I’m working on Python-based projects to deepen my data analytics and programming expertise. You can see my work on GitHub.
+- I’m working on Python-based projects to deepen my data engineering and programming expertise. You can see my work on GitHub.
 - I’m teaching myself web development with Python, Django, and JavaScript stacks, aiming to build dynamic data-driven web applications.
 - I write about what I learn and my projects on my data blog. Check it out to see what I’m up to.
 - I’m all in for the cloud-native platform and studying for the AWS SAA-C03 exam.
