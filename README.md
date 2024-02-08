@@ -29,7 +29,7 @@ Thank you for visiting my GitHub. Here's a brief introduction about myself.
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,docker,git,mysql,postgres,aws,azure,gcp,bash,powershell,html,css,js&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,docker,git,mysql,postgres,aws,azure,gcp,html,css,js&perline=6)](https://skillicons.dev)
 
 ## My GitHub Stats:
 
