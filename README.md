@@ -18,8 +18,7 @@ Thank you for visiting my GitHub. Here's a brief introduction about myself.
 
 - I code (almost) daily to get better at solving problems. Check out my streak below!
 - I mostly learn from books, taking notes with pen and paper (I'm old-school and I know it). I also learn a great deal from brilliant minds on Coursera, YouTube (Harvard's CS50x, freeCodeCamp, StatQuest, to name a few), and Udemy.
-- I’m working on Python-based projects to deepen my data engineering and programming expertise. You can see my work on GitHub.
-- I’m teaching myself web development with Python, Django, and JavaScript stacks, aiming to build dynamic data-driven web applications.
+- I’m teaching myself web development with Django and JavaScript stacks.
 - I’m very enthusiastic about the cloud-native approach and studying for the AWS SAA-C03 exam.
 <!-- - I write about what I learn and my projects on my data blog. Check it out to see what I’m up to.-->
 
