@@ -19,7 +19,7 @@ Thank you for visiting my GitHub. Here's a brief introduction about myself.
 
 ## How to reach me:
   
-- LinkedIn: [in/longnguyendata](https://www.linkedin.com/in/longnguyendata/)
+- LinkedIn: [in/longnca](https://www.linkedin.com/in/longnca/)
 
 ## Languages and Tools:
 
