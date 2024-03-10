@@ -7,7 +7,7 @@ Thank you for visiting my GitHub. Here's a brief introduction about myself.
 - :man_student: I have a background in Chemical Engineering with a Master's degree from the University of Manchester (U.K.).
 - :man_mechanic: Over the years, I've worked across various industries —including oil & gas, manufacturing, operations, and healthcare— with all roles geared toward data-driven solutions.
 - :microscope: My passion for data is more than just a job; it's a journey of continuous learning and growth.
-- :computer: At my current job, I’m currently building an entire end-to-end data portal and system from the ground up, applying my skills in database design, data modelling, ETL data pipelines, analytics, visualization, and front-end web development.
+- :computer: At my current job, I’m currently building an entire end-to-end data portal and system from the ground up, applying my skills in database design, data modelling, analytics, visualization, and front-end web development.
 
 ## What I'm Learning:
 
