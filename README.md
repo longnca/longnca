@@ -28,7 +28,7 @@ Thank you for visiting my GitHub. Here's a brief introduction about myself.
 ## My GitHub Stats:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnca&show_icons=true&locale=en&layout=compact" alt="longnca" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=longnca" alt="longnca" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=longnca" alt="longnca" /></p>
 
 <!-- This is the legacy section 
 [![longnca's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longnca&theme=default&show_icons=true&hide_border=false&layout=compact)](https://gh-stats-gen.vercel.app/)
