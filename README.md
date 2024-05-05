@@ -4,17 +4,16 @@
 
 Thank you for visiting my GitHub. Here's a brief introduction about myself. 
 
-- :man_student: I have a background in Chemical Engineering with a Master's degree from the University of Manchester (U.K.).
-- :man_mechanic: Over the years, I've worked across various industries —including oil & gas, manufacturing, operations, and healthcare— with all roles geared toward data-driven solutions.
-- :microscope: My passion for data is more than just a job; it's a journey of continuous learning and growth.
-- :computer: At my current job, I’m currently building an entire end-to-end data portal and system from the ground up, applying my skills in database design, data modelling, analytics, visualization, and front-end web development.
+- :man_student: I come from a Chemical Engineering background and am pursuing a Master's in Software Engineering.
+- :man_mechanic: Over the years, I've had the privilege of working across diverse industries, such as oil and gas, manufacturing, operations, and healthcare, in all roles geared toward data-driven solutions.
+- :computer: At my current job, I’m building an entire end-to-end data portal and system from the ground up, applying my skills in database design, data modelling, analytics, visualization, and front-end web development.
+- :microscope: My passion for data and tech is more than just a job; it's a personal journey of continuous learning and growth.
 
 ## What I'm Learning:
 
 - I code (almost) daily to get better at solving problems. Check out my streak below!
-- I mostly learn from books, taking notes with pen and paper (I'm old-school and I know it). I also learn a great deal from brilliant minds on Coursera, YouTube (Harvard's CS50x, freeCodeCamp, StatQuest, to name a few), and Udemy.
-- I’m teaching myself web development with Django and JavaScript stacks.
-- I’m very enthusiastic about the cloud-native approach and studying for the Azure DP-100 and AWS SAA-C03 exams.
+- I mostly learn from books, taking notes with pen and paper (I'm old-school and I know it).
+- I’m enthusiastic about the cloud tech and studying for the Azure DP-100 and DP-203 exams.
 <!-- - I write about what I learn and my projects on my data blog. Check it out to see what I’m up to.-->
 
 ## How to reach me:
