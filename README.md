@@ -26,7 +26,7 @@ Thank you for visiting my GitHub. Here's a brief introduction about myself.
 
 ## My GitHub Stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnca&show_icons=true&locale=en&layout=compact" alt="longnca" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnca&size_weight=0.5&count_weight=0.5&langs_count=8&show_icons=true&locale=en&layout=compact" alt="longnca" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=longnca" alt="longnca" /></p>
 
 <!-- This is the legacy section 
