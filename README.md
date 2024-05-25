@@ -1,6 +1,8 @@
 # Hi, I'm Long 👋
 
-## About Me: 
+Thank you for visiting my GitHub.
+
+<!-- ## About Me: 
 
 Thank you for visiting my GitHub. Here's a brief introduction about myself. 
 
@@ -14,7 +16,6 @@ Thank you for visiting my GitHub. Here's a brief introduction about myself.
 - I code (almost) daily to get better at solving problems. Check out my streak below!
 - I mostly learn from books, taking notes with pen and paper (I'm old-school and I know it).
 - I’m enthusiastic about the cloud tech and studying for the Azure DP-100 and DP-203 exams.
-<!-- - I write about what I learn and my projects on my data blog. Check it out to see what I’m up to.-->
 
 ## How to reach me:
   
@@ -22,7 +23,7 @@ Thank you for visiting my GitHub. Here's a brief introduction about myself.
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,docker,git,mysql,postgres,aws,azure,gcp,html,css,js&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,docker,git,mysql,postgres,aws,azure,gcp,html,css,js&perline=6)](https://skillicons.dev) -->
 
 ## My GitHub Stats:
 
