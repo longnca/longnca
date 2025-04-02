@@ -25,10 +25,11 @@ Thank you for visiting my GitHub. Here's a brief introduction about myself.
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,docker,git,mysql,postgres,aws,azure,gcp,html,css,js&perline=6)](https://skillicons.dev) -->
 
+<!--
 ## My GitHub Stats:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnca&size_weight=1.0&count_weight=0.0&langs_count=8&show_icons=true&locale=en&layout=compact" alt="longnca" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=longnca" alt="longnca" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=longnca" alt="longnca" /></p> -->
 
 <!-- This is the legacy section 
 [![longnca's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longnca&theme=default&show_icons=true&hide_border=false&layout=compact)](https://gh-stats-gen.vercel.app/)
